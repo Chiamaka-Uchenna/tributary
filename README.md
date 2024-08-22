@@ -1,1 +1,1 @@
-"# tributary" 
+Welcome to the Ford Vehicle Data Backend Service project! This project aims to create a backend service that acts as an intermediary between Ford vehicles' physical sensors and a mobile app, providing real-time data to drivers. The backend service will stream data collected from the vehicle sensors to the mobile app, enabling drivers to access live vehicle information.
